@@ -1,2 +1,7 @@
-title: Portefolio 
+title: Portfolio 
+theme: jekyll-theme-minimal
+title: Portfolio 
+logo: /assets/img/Joston.jpg
+description: Justin
+#show_downloads: true
 theme: jekyll-theme-minimal
