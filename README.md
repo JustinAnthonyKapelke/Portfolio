@@ -1,9 +1,7 @@
-# Portfolio
+# Specialisering
 
-## Specialisering
-
-### Javscript
+## Javscript
 Jeg vil lære grundlæggende Javascript
 
-### IT Sikkerhed
+## IT Sikkerhed
 
