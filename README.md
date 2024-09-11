@@ -13,27 +13,21 @@ Jeg vil lære grundlæggende Javascript. Mine mål er at forstå følgende områ
 
 ### Projekter i Javascript
 1. **Projekt: Digital ordrebog for guldsmeden MajusSmykker**
-   - **Beskrivelse**: En digital ordrebog til at håndtere og administrere ordrer for guldsmeden MajusSmykker.
-   - **Teknologier**: HTML, CSS, Javascript.
+   - **Beskrivelse**: En digital ordrebog til at håndtere og administrere ordrer for guldsmeden MajusSmykker, med fokus på sikker datahåndtering og kryptering.
+   - **Teknologier**: HTML, CSS, Javascript, C#.
    - **Status**: Igangværende.
 
 ---
 
 ## IT Sikkerhed
-Min interesse inden for IT-sikkerhed fokuserer på:
+Min interesse inden for IT-sikkerhed integreres i udviklingen af **Digital ordrebog for guldsmeden MajusSmykker**, hvor jeg fokuserer på:
 
-- **Netværkssikkerhed**: Forståelse af, hvordan netværk fungerer, og hvordan man beskytter dem mod angreb.
-- **Kryptering**: Lær principperne bag symmetrisk og asymmetrisk kryptering.
-- **Etisk hacking**: Introduktion til penetrationstest og værktøjer som Metasploit.
-- **Datasikkerhed**: Implementering af teknikker til at beskytte data mod uautoriseret adgang.
+- **Kryptering**: Implementering af en simpel krypteringsalgoritme for at sikre kundedata og beskytte ordrer mod uautoriseret adgang.
+- **Netværkssikkerhed**: Sikring af kommunikation mellem server og klient.
+- **Datasikkerhed**: Fokus på sikre dataoverførsler og opbevaring af ordrer og kundeoplysninger.
 
 ### Projekter i IT Sikkerhed
-1. **Projekt: Simpel krypteringsalgoritme**
-   - **Beskrivelse**: En simpel applikation, der krypterer og dekrypterer tekst ved hjælp af en brugerdefineret nøgle.
-   - **Teknologier**: Python.
+**Projektet "Digital ordrebog for guldsmeden MajusSmykker"** inkluderer alle aspekter af IT-sikkerhed:
+   - **Beskrivelse**: Udvikling af sikkerhedsforanstaltninger som kryptering og datasikring i en ordrebog-applikation.
+   - **Teknologier**: C#, Javascript.
    - **Status**: Igangværende.
-
-2. **Projekt: Netværksanalyse**
-   - **Beskrivelse**: Overvågning og analyse af netværkstrafik for at identificere potentielle sikkerhedsrisici.
-   - **Teknologier**: Wireshark.
-   - **Status**: Planlagt.
