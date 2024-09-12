@@ -22,7 +22,7 @@ Jeg vil lære grundlæggende Javascript. Mine mål er at forstå følgende områ
 ## IT Sikkerhed
 Min interesse inden for IT-sikkerhed integreres i udviklingen af **Digital ordrebog for guldsmeden MajusSmykker**, hvor jeg fokuserer på:
 
-- **Kryptering**: Implementering af en simpel krypteringsalgoritme for at sikre kundedata og beskytte ordrer mod uautoriseret adgang.
+- **Kryptering**: Implementering af en simpel krypteringsalgoritme for at sikre kundedata og beskytte databasen mod uautoriseret adgang.
 - **Netværkssikkerhed**: Sikring af kommunikation mellem server og klient.
 - **Datasikkerhed**: Fokus på sikre dataoverførsler og opbevaring af ordrer og kundeoplysninger.
 
