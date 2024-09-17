@@ -1,5 +1,5 @@
 # Min Portefølje
-[Min proces](https://justinanthonykapelke.github.io/Portfolio/Proces.md)
+[Min proces](https://justinanthonykapelke.github.io/Portfolio/Proces)
 
 ## Specialisering
 
