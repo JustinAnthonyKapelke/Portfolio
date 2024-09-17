@@ -1,5 +1,5 @@
 # Min Portefølje
-[Se min nye side om Specialisering og IT Sikkerhed](https://justinanthonykapelke.github.io/Portfolio/Proces.md)
+[Min proces](https://justinanthonykapelke.github.io/Portfolio/Proces.md)
 
 ## Specialisering
 
