@@ -1,5 +1,8 @@
 # Min Portefølje
 
+[Se min nye side om Specialisering og IT Sikkerhed]([https://<your-username>.github.io/<your-repo>/portfolio.html](https://justinanthonykapelke.github.io/Portfolio/Proces).md)
+
+
 ## Specialisering
 
 ### Javascript
