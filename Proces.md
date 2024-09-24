@@ -5,7 +5,8 @@ Vi har taget vores wireframes og er nu i gang med at omdanne dem til frontend-de
 # Uge 39+40
 I løbet af de næste to uger vil jeg fokusere på at implementere grundlæggende IT-sikkerhed, både i klient- og API-delen. 
 
-## OTP (One-Time Password) Jeg overvejer at bruge som en ekstra sikkerhedsforanstaltning for at styrke beskyttelsen af systemet.
+## OTP (One-Time Password) 
+Jeg overvejer at bruge som en ekstra sikkerhedsforanstaltning for at styrke beskyttelsen af systemet.
 
 ## Inputvalidering handler om at sikre, at data, der kommer fra brugere eller eksterne kilder, overholder bestemte regler, før de behandles eller gemmes i systemet. Formålet er at verificere, at inddata er gyldige, i det rigtige format og inden for de forventede grænser, før de bruges i applikationen.
 ## Forskellen på Validering og Sanitering:
@@ -14,3 +15,4 @@ I løbet af de næste to uger vil jeg fokusere på at implementere grundlæggend
 •	
 ## Brug af CORS (Cross-Origin Resource Sharing)
 CORS er en sikkerhedsmekanisme, der styrer, hvilke domæner der har tilladelse til at kommunikere med API'en fra en browser. Ved at konfigurere CORS kan du begrænse, hvilke eksterne webapplikationer der har adgang til din API, og dermed forhindre ondsindet brug fra uautoriserede domæner.
+
