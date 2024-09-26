@@ -8,6 +8,7 @@
 - Youtube react tutorial afsluttet. - Build an App and Master React https://www.youtube.com/watch?v=b9eMGE7QtTk
 - Learn react kursus til trin 21
 - Scrimba kursus osptartet
+- Møde med productowner angående designval, kalenderfunktion og OTP.
 
 # Hvad vil jeg lave?
 ## Uge 39+40
